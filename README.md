@@ -12,6 +12,7 @@
 #GET /carts → listar carritos de compras
 #GET /carts/:id → ver detalle del carrito de compra
 #POST /carts/add → crear un carrito de compras
+# la implementacion de 
 
 
 
